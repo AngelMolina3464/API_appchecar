@@ -1,0 +1,12 @@
+{
+  "name": "serverapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node query"
+  },
+  "author": "",
+  "license": "ISC"
+}
